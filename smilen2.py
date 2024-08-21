@@ -31,5 +31,5 @@ filtered_smiles_with_names = [
 for name, smiles in filtered_smiles_with_names:
     print(f"{name}: {smiles}")
 
-print("SMILES codes and their names have been printed.")
+#print("SMILES codes and their names have been printed.")
 
